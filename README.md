@@ -56,5 +56,5 @@ LLMの回答だけに計算を任せず、Pythonによる計算処理を組み�
 ## アプリ画面
 
 ### 入力画面
-![AI業務時短診断アプリの入力画面](images/diagnosis-input.png)
+![AI業務時短診断アプリの入力画面](diagnosis-input.png.jpg)
 
